@@ -1,1 +1,1 @@
-"# PSK_lab_1" 
+# Pirmasis PSK laboratorinis darbas
